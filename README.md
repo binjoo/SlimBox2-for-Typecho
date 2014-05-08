@@ -14,7 +14,7 @@
 
 ## 更新记录 ##
 #### v1.0.5
- - 使用(林木木的代码)[http://immmmm.com/slimbox2-js-picture-box-adaptive.html]修复`图片灯箱自适应`功能；
+ - 使用[林木木的代码](http://immmmm.com/slimbox2-js-picture-box-adaptive.html)修复`图片灯箱自适应`功能；
 
 #### v1.0.4
  - 加入标题栏显示隐藏；
