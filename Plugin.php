@@ -4,7 +4,7 @@
  * 
  * @package SlimBox2
  * @author 冰剑
- * @version 1.0.4
+ * @version 1.0.5
  * @link http://www.binjoo.net/
  */
 class SlimBox2_Plugin implements Typecho_Plugin_Interface
